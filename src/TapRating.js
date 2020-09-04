@@ -106,8 +106,10 @@ const styles = StyleSheet.create({
     margin: 10,
   },
   starContainer: {
+    marginTop:10,
+    width:'100%',
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'space-between',
   }
 });
